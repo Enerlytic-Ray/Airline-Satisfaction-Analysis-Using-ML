@@ -152,7 +152,7 @@ The **Workflow Flowchart** for the **Enerlytic Airline Satisfaction ML Pipeline*
 - Extend dashboard for executive decision analytics 
 
 
-## 🧮 Sample Code Snippet Section
+## 🧮 Sample Code Snippet Section From the Enerlytic Python Script for Airline analysis With Each Cell Description Uploaded File
 Example of the model training and evaluation step:
 
 ```python
