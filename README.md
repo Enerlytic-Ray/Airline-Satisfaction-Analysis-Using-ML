@@ -1,4 +1,4 @@
-# ✈️ Airline Passenger Satisfaction ML Pipeline
+# ✈️ Airline Passenger Satisfaction Analysis Using Machine Learning
 ## 👨‍💻 By Adejoro Raymond Olaotan
 
 > A comprehensive, data driven solution for modeling airline passenger satisfaction using ETL, EDA, and predictive analytics with two supervised machine learning models which are Logistic Regression and Random Forest.
